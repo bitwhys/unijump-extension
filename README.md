@@ -1,13 +1,13 @@
 <p align="center">
-  <a href="https://unijump.ai" target="_blank" rel="noopener noreferrer">
+  <a href="https://llmantha.creightive.sh" target="_blank" rel="noopener noreferrer">
     <img src="https://unijump.ai/_astro/logo.bdfd1cb1.png" width="36" height="36" alt="Unijump.ai logo">
   </a>
 </p>
 <br/>
 
-# Unijump.ai Browser Extension
+# LLMantha.ai Browser Extension
 
-> Shortcut for ChatGPT with Superpowers!
+> Your LLM powered personal OS
 
 - 🦄 100% Free
 - ✨ 100% Open Source
@@ -29,6 +29,11 @@
 - Paraphraser
 
 <br/>
+
+> 🚧 ROADMAP 🚧
+- Query any webpage
+- Self hosting
+- Open Terminal integration
 
 ## Download
 
